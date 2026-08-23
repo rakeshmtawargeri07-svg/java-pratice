@@ -1,6 +1,4 @@
-/**
- * vowels
- */
+
 public class vowels {
 
     public static void printvovels(String str){
