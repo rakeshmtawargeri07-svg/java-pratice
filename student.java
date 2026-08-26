@@ -4,6 +4,7 @@ public class student{
     public String sec;
     private String GF;
     public String name;
+    private int count;
 
 
 
@@ -14,9 +15,13 @@ public class student{
     //     return this.GF;
     // }
 
+    public void getcount(int a){
+        this.count=count;
+    }
+
     // constructor function is used to create a object with values of the student class
 
-public student(int age,int rollno,String sec,String GF,String name){
+public student(int age,int rollno,String sec,String GF,String name,int count){
     
     this.age=age;
     this.rollno=rollno;  
