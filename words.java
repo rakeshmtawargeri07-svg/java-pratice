@@ -20,8 +20,5 @@ public class words{
         System.out.println(noofwords(s));
 
 
-
-
-
     }
 }
