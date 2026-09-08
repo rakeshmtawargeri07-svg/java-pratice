@@ -11,7 +11,6 @@ public class words{
         }
     }
     return count + 1;
-
     }
 
     public static void main(String [ ] args){
