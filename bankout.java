@@ -14,7 +14,6 @@ class bank{
     public long getbalance(){
         return balance;
     }
-
 }
 
 class bankout{
