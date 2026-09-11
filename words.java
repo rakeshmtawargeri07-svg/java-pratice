@@ -11,16 +11,12 @@ public class words{
         }
     }
     return count + 1;
-
     }
 
     public static void main(String [ ] args){
         Scanner sc=new Scanner(System.in);
         String s="how are u";
         System.out.println(noofwords(s));
-
-
-
 
 
     }
