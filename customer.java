@@ -29,9 +29,7 @@ public long getnumber(){
 
             cust c=new cust();
             c.setdata(001,"rakesh",9876543L);
-            System.out.println(c.getid() + " " +c.getname() + " " +c.getnumber());
-
-                                      
+            System.out.println(c.getid() + " " +c.getname() + " " +c.getnumber());                      
 
         }
     }
