@@ -14,7 +14,7 @@ class custemer{
     {
         city=c;
     }
-    void setdetail( i)
+    void setdetail(int i)
     {
         cID=i;
     }
