@@ -7,7 +7,7 @@ class diffbetweenconst {
 
 
     // Parameterized constructor
-    public  void diffbetweenconst(int cid, String cname, long cnumber) {
+    public   diffbetweenconst(int cid, String cname, long cnumber) {
         this.cid = cid;
         this.cname = cname;
         this.cnumber = cnumber;
