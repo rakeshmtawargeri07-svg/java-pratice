@@ -5,7 +5,7 @@ public class Constructor {
     String name;
     String companyname;
 
-
+    
 //paramatralize constructor
 public Constructor(int age,int salary,String name,String companyname){
     this.age=age;
