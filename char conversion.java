@@ -14,7 +14,6 @@ public class Main {
             } else if (ch >= 'a' && ch <= 'z') {
                 ch = (char) (ch - 32);
             }
-
             result = result + ch;
         }
 
