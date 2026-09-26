@@ -24,5 +24,4 @@ class bankout{
         System.out.println(b1.getbalance());
 
     }
-
 }
