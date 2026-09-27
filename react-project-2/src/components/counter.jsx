@@ -1,6 +1,6 @@
 import React from 'react';
 import "./counter.css";
-
+import React, { useState } from 'react';
 
 const Counter = () => {
 
