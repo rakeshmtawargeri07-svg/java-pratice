@@ -10,7 +10,6 @@ class circle{
     static{
         pi=3.142f;
     }
-
     public void acceptinginput(){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the radius of circle: ");

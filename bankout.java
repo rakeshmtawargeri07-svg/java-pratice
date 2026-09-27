@@ -15,7 +15,6 @@ class bank{
         return balance;
     }
 }
-
 class bankout{
 
     public static void main(String [] args){
@@ -25,5 +24,4 @@ class bankout{
         System.out.println(b1.getbalance());
 
     }
-
 }
