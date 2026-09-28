@@ -11,7 +11,6 @@ public class prime{
             system.out.println("not prime");
         }
        }
-
     }
     public static void main(string []args){
        Scanner sc=new scanner(system.in);
