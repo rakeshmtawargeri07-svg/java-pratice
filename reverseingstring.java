@@ -13,5 +13,6 @@ public class reverseingstring {
             str.setCharAt(lastcharindex,firstchar);
         }
         System.out.println(str);
+        
     }
 }

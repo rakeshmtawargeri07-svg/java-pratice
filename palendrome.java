@@ -5,7 +5,6 @@ public class palendrome {
         for(int i=str.length()-1;i>=0;i--){
             char ch=str.charAt(i);
             revese=revese+ch;
-            
         }
         return revese;
     }
