@@ -30,7 +30,6 @@ class fighterjet extends plane{
         System.out.println("carry pilot");
     }
 }
-
 class Tightcoupling{
     public static void main(String [] args){
         passengerplane pp=new passengerplane();
