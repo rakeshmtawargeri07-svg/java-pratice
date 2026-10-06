@@ -21,7 +21,6 @@ class passengerplane extends plane{
     }
 
 }
-
 class fighterjet extends plane{
     void fun(){
         System.out.println("flys at high hight");
