@@ -11,7 +11,6 @@ class cargoplane extends plane{
         System.out.println("carry goods");
     }
 }
-
 class passengerplane extends plane{
     void fun(){
         System.out.println("flys at medium hight");
