@@ -29,6 +29,15 @@ class eagleee{
     public static void main(String [] args){
     serpanteagle se=new serpanteagle();
     se.fly();   
-    
+    se.eat();
+    baldeagle be=new baldeagle();
+    be.fly();
+    be.eat();
+
+    //if u give parent ref
+    //bird b=new serpanteagle();
+    //b.fly();
+    //b.eat();
+
     }
 }
