@@ -12,7 +12,6 @@ class bike {
     public String getbike(){
         return bike;
     }
-
     public int getmilage(){
         return milage;
     }
