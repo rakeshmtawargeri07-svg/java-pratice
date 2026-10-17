@@ -4,7 +4,6 @@ class bike {
 
     private String bike;
     private int milage;
-
     public bike(String bike,int  milage){
         this.bike=bike;
         this.milage=milage;
