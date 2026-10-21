@@ -15,7 +15,6 @@ public class  ConstructorInhertance //here though there is not written extends b
     }
     
 }
-
 class ConstructorInhertance01 extends ConstructorInhertance {
 
     //private int y;
