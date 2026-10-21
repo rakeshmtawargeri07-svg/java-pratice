@@ -2,7 +2,6 @@ public class  ConstructorInhertance //here though there is not written extends b
                                     // here it is written as ConstructorInhertance extends object(main and top class in java)
                                     //so constructor 1 also gets exectuded before even geting created 
 {
-
     //private int x;
 
     public  ConstructorInhertance(){
