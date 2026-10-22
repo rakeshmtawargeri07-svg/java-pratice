@@ -10,7 +10,6 @@ public class ARRAY1{
         return a;
     }
     public static void main(String []args){
-
         int result=multi();
         System.out.println("The multiplication of array elements is: "+result);
     }
