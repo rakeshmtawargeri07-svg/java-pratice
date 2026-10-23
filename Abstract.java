@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 abstract class shape{
     float area;
-
     abstract void acceptinput();
     abstract void calarea();
 
