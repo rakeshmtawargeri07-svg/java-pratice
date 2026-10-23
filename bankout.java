@@ -23,6 +23,5 @@ class bankout{
         bank b1=new bank();
         b1.setdata(9340);
         System.out.println(b1.getbalance());
-
     }
 }
