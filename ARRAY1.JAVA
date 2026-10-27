@@ -1,5 +1,4 @@
 public class ARRAY1{
-
     public static int multi(){
         int arr[]={1,2,3,4,5};
         int a=1;
@@ -13,3 +12,5 @@ public class ARRAY1{
         System.out.println("The multiplication of array elements is: "+result);
     }
 }
+
+
