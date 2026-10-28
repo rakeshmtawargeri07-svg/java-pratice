@@ -3,10 +3,8 @@ final class plane{
         System.out.println("flys in sky");
     }
 }
-
 class cargoplane extends plane{
 }
-
 public class finalmethod{
     public static void main(String [] args){
         cargoplane cp=new cargoplane();
